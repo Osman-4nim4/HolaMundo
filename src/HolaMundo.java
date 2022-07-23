@@ -21,7 +21,7 @@ public class HolaMundo {
 
         var _nombre="Osman";
 
-        System.out.println("Mi nombre es "+nombre+ " Mucho gusto "+ "Mi edad es  " + numero3);
+        System.out.println("Mi nombre es "+nombre+ " Mucho gusto "+ "Mi edad es  " + numero3+ " y "+ saludar );
     }
 
 }
